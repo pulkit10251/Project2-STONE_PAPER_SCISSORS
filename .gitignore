@@ -1,0 +1,5 @@
+
+*.jpg
+.ipynb_checkpoints/Data_Generator-checkpoint.ipynb
+.ipynb_checkpoints/Play-checkpoint.ipynb
+.ipynb_checkpoints/Training-checkpoint.ipynb
